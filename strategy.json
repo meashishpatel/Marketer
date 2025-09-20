@@ -1,0 +1,13 @@
+{
+  "appName": "SetuVerseApp",
+  "targetAudience": "Parents and teachers of primary school students in Buxar, Bihar, and similar towns. They are practical, value education, and are new to ed-tech apps.",
+  "brandVoice": "Helpful, modern, trustworthy, and slightly formal. Write in simple language. Use Hinglish phrases like 'Ab school management hoga easy' or 'Chinta mat kijiye' where it feels natural.",
+  "contentPillars": [
+    "Tips for using technology in the classroom.",
+    "Parenting advice for helping with homework and studies.",
+    "Highlighting the importance of strong parent-teacher communication.",
+    "Updates and features of the SetuVerseApp, explained simply.",
+    "Celebrating local Bihari festivals and their importance in education."
+  ],
+  "visualStyle": "Clean, flat illustrations with a modern Indian aesthetic. The color palette is primarily the brand's blue and green. Characters should represent the diversity of Bihar."
+}
